@@ -1,0 +1,1 @@
+export JAVA_HOME=C:\Users\hp\Downloads\openjdk-20.0.2_windows-x64_bin\jdk-20.0.2
