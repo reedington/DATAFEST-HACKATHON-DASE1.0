@@ -4,7 +4,8 @@
 
 
 
-🎯 Project Brief
+🎯Project Brief
+---
 Fraud Detection for Online Payment Platform
 Overview
 
@@ -33,7 +34,6 @@ You are at liberty to use any tool of your choice.
 
 ---
 
-#### PROCESS
 # Fraud Detection Model using PySpark
 
 ## Overview
@@ -87,7 +87,7 @@ This repository contains a PySpark-based fraud detection model. The model proces
 
 ## Author
 
-- Adeleke Oluwafikayomi
+[Adeleke Oluwafikayomi](https://www.linkedin.com/in/oluwafikayomi-adeleke-98a29023b/)
 
 Feel free to reach out for any questions or assistance.
 
