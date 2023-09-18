@@ -72,13 +72,15 @@ This repository contains a PySpark-based fraud detection model. The model proces
 
 6. **Performance**
 
+   ![Screenshot (343)](https://github.com/reedington/DATAFEST-HACKATHON-DASE1.0/assets/110972011/8780e7dc-a607-476f-8033-fad082cdcf4d)
+
    - The model aims to achieve an accuracy of approximately 0.87% across 1200 batches. The performance of each batch is printed during execution.
 
-7. **Results**
+8. **Results**
 
    - After completion, the code will print the average accuracy achieved across all batches.
 
-8. **Clean-Up**
+9. **Clean-Up**
 
    - Ensure to stop the Spark session to release resources.
 
